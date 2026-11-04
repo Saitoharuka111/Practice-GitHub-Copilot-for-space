@@ -79,3 +79,16 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## Additional Project Management Roles
+
+### Quality Assurance Lead
+- Responsibilities: Define test strategies, coordinate testing activities, review defects, and ensure quality standards are met.
+- Collaboration: Works with the Project Manager and development team to resolve defects and confirm release readiness.
+
+### Risk Manager
+- Responsibilities: Identify, assess, monitor, and mitigate project risks.
+- Collaboration: Works with the Project Manager and team leads to evaluate risks, assign owners, and escalate critical issues.
+
+### Communication Coordinator
+- Responsibilities: Manage stakeholder communication, coordinate status updates, and ensure important information is shared.
+- Collaboration: Works with the Project Manager and team members to communicate progress, decisions, and blockers.
